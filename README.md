@@ -2,7 +2,7 @@
 
 ## CracklePop Solution
 
-A python script that iterates, i, from 1 to 100, conditionally printing per iteration as follows:
+A python script that iterates from 1 to 100, conditionally printing per iteration as follows:
 
 | Number | Output     |
 |--------|------------|
